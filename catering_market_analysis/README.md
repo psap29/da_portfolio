@@ -7,7 +7,7 @@
 
 
 ## Используемые библиотеки
-`pandas`, `matplotlib`, `seaborn`, `folium`, `json`
+`Pandas`, `Matplotlib`, `Seaborn`, `Folium`, `json`
 
 ## Данные
 Датасет представлен следующими данными: 
