@@ -4,9 +4,9 @@
 В репозитории представлены исследования, разработанные как в рамках проектной деятельности в качестве аналитика данных, так и в ходе учебных проектов на программе [Анализа Данных](https://practicum.yandex.ru/data-analyst-plus/ "Анализа Данных") в Яндекс Практикуме. 
 
 ## Основные инструменты
-* Языки: Python(библиотеки Pandas, Numpy, Matplotlib, Seaborn, Scipy), SQL
-* BI-инструменты: Tableau, Yandex DataLens
-* Прочие инструменты анализа данных: Microsot Excel, Power Point
+* **Языки:** Python(библиотеки Pandas, Numpy, Matplotlib, Seaborn, Scipy), SQL
+* **BI-инструменты:** Tableau, Yandex DataLens
+* **Прочие инструменты анализа данных:** Microsot Excel, Power Point
 
 ## Проекты:
 ### Проектная работа в качестве аналитика данных
