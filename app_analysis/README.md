@@ -7,7 +7,7 @@
 
 
 ## Используемые библиотеки
-`pandas`, `numpy`,`matplotlib`, `seaborn`, `scipy`, `math`
+`Pandas`, `NumPy`,`Matplotlib`, `Seaborn`, `SciPy`, `Math`
 
 ## Данные
 Данные представлены тремя датасетами:
